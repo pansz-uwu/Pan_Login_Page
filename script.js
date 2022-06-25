@@ -10,5 +10,4 @@ const handleChange = () => {
         button.setAttribute('disabled', '');
     }
 }
-
-inputs.forEach(input) => input.addEventListener('input', handleChange);
+// inputs.forEach(input) => input.addEventListener('input', handleChange);
